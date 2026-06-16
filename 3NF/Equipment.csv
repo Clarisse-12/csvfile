@@ -1,0 +1,9 @@
+| EquipmentID | EquipmentName | RentalCost |
+| ----------- | ------------- | ---------- |
+| E001        | Crane         | 5000       |
+| E002        | Bulldozer     | 3000       |
+| E003        | Excavator     | 4000       |
+| E004        | Mixer         | 800        |
+| E005        | Forklift      | 1200       |
+| E006        | Lift          | 2000       |
+| E007        | Crane         | 6500       |

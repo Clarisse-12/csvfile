@@ -1,0 +1,7 @@
+MaterialID,MaterialName,Unit,SupplierID
+M001,Cement,bags,SUP001
+M002,Steel Rebar,tons,SUP002
+M003,Wire Cable,meters,SUP004
+M004,Gravel,cubic meters,SUP003
+M005,Lumber,boards,SUP001
+M006,PVC Pipe,meters,SUP005
