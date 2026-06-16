@@ -1,7 +1,0 @@
-EquipmentID,EquipmentName,EquipmentType
-E001,Excavator,Heavy Machinery
-E002,Crane,Heavy Machinery
-E003,Generator,Power Equipment
-E004,Concrete Mixer,Light Equipment
-E005,Forklift,Material Handling
-E006,Water Pump,Utility Equipment
